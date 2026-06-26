@@ -131,3 +131,5 @@ PROY-3: Mejorar documentación y comentarios tras peer review
 - **Entorno de ejecución:** Google Colab
 - **Control de versiones:** Git + GitHub
 - **Gestión de tareas:** Jira
+
+> Revisado por QA (P3): script ejecutado y resultados verificados
