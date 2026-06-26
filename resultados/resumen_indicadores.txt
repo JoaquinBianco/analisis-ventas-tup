@@ -1,0 +1,17 @@
+RESUMEN DE INDICADORES DE VENTAS
+================================
+
+Periodo analizado: 2025-01-01 a 2025-06-30
+Cantidad de operaciones: 710
+
+Ventas totales: $1.947.600
+Producto mas vendido (unidades): Cafe (475 unidades)
+Producto que mas facturo: Sandwich ($395.000)
+
+Ventas por mes:
+  2025-01: $334.050
+  2025-02: $301.150
+  2025-03: $368.600
+  2025-04: $329.750
+  2025-05: $331.400
+  2025-06: $282.650
